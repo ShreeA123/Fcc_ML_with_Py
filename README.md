@@ -1,1 +1,1 @@
-# Fcc_ML_with_Py
+This repo contains the projects of the course "Machine Learning with Python".
